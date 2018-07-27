@@ -1,0 +1,6 @@
+E:\Spoj\PP0501A - NWD\PP0501A - NWD\bin\Debug\PP0501A - NWD.exe
+E:\Spoj\PP0501A - NWD\PP0501A - NWD\bin\Debug\PP0501A - NWD.pdb
+E:\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.csprojResolveAssemblyReference.cache
+E:\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.csproj.CoreCompileInputs.cache
+E:\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.exe
+E:\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.pdb
