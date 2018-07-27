@@ -1,0 +1,6 @@
+E:\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\bin\Debug\FLAMASTE - Flamaster.exe
+E:\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\bin\Debug\FLAMASTE - Flamaster.pdb
+E:\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.csproj.CoreCompileInputs.cache
+E:\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.exe
+E:\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.pdb
+E:\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.csprojResolveAssemblyReference.cache
