@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETI06F1 - Pole pewnego koła", "ETI06F1 - Pole pewnego koła\ETI06F1 - Pole pewnego koła.csproj", "{4108F26B-F2D1-4454-842F-A1392B06FAA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSR - Predkość średnia", "VSR - Predkość średnia\VSR - Predkość średnia.csproj", "{5207105D-78C4-4E2D-9C8D-AAD895898682}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4108F26B-F2D1-4454-842F-A1392B06FAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4108F26B-F2D1-4454-842F-A1392B06FAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4108F26B-F2D1-4454-842F-A1392B06FAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4108F26B-F2D1-4454-842F-A1392B06FAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5207105D-78C4-4E2D-9C8D-AAD895898682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5207105D-78C4-4E2D-9C8D-AAD895898682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5207105D-78C4-4E2D-9C8D-AAD895898682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5207105D-78C4-4E2D-9C8D-AAD895898682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9532AA17-0594-4711-A7EA-111569418467}
+		SolutionGuid = {A83EB141-63F7-40BC-A981-C9A3241F17BD}
 	EndGlobalSection
 EndGlobal

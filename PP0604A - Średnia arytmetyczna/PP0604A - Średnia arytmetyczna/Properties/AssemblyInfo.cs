@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Ogólne informacje o zestawie są kontrolowane poprzez następujący 
 // zestaw atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
 // powiązane z zestawem.
-[assembly: AssemblyTitle("ETI06F1 - Pole pewnego koła")]
+[assembly: AssemblyTitle("PP0604A - Średnia arytmetyczna")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ETI06F1 - Pole pewnego koła")]
+[assembly: AssemblyProduct("PP0604A - Średnia arytmetyczna")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Następujący identyfikator GUID jest identyfikatorem biblioteki typów w przypadku udostępnienia tego projektu w modelu COM
-[assembly: Guid("4108f26b-f2d1-4454-842f-a1392b06faa2")]
+[assembly: Guid("813019c3-7e05-486e-af9f-b3a2f45c37bf")]
 
 // Informacje o wersji zestawu zawierają następujące cztery wartości:
 //
