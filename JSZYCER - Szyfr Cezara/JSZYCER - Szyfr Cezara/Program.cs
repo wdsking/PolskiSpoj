@@ -12,13 +12,9 @@ namespace JSZYCER___Szyfr_Cezara
 
 		static void Main(string[] args)
 		{
-			// aby rozwiazac to zadanie musialem odgadnac liczbe prob ktore podejmuje sedzia
-			// dzieki czemu moglem wyjsc z programu z exit codem 0, a nie -1, ktorego Spoj nie przyjmowal
-			for (int i = 0; i < 4; i++) 
-			{
-				Console.WriteLine(Encrypt(Console.ReadLine(), 3));
-			}
-			Environment.Exit(0);
+			try { 
+				while(true) Console.WriteLine(Encrypt(Console.ReadLine(), 3));
+			}catch(Exception ex) { Environment.Exit(0); }
 		}
 		static string Encrypt(string text, int offset)
 		{
@@ -43,8 +39,6 @@ namespace JSZYCER___Szyfr_Cezara
 					pos -= 26;
 				}
 				encryptedText += alphabet[pos % alphabet.Length];
-
-
 			}
 			return encryptedText;
 		}
@@ -54,7 +48,6 @@ namespace JSZYCER___Szyfr_Cezara
 			text = text.ToUpper();
 			for (int i = 0; i < text.Length; i++)
 			{
-
 				int letterPos = alphabet.IndexOf(text[i]);
 				if (letterPos == -1)
 				{
@@ -71,8 +64,6 @@ namespace JSZYCER___Szyfr_Cezara
 					pos -= 26;
 				}
 				decryptedText += alphabet[pos % alphabet.Length];
-
-
 			}
 			return decryptedText;
 		}
