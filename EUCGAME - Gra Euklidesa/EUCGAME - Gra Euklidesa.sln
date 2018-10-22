@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EUCGAME - Gra Euklidesa", "EUCGAME - Gra Euklidesa\EUCGAME - Gra Euklidesa.vcxproj", "{335664C8-2B01-478F-8160-866D5F878308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335664C8-2B01-478F-8160-866D5F878308}.Debug|x64.ActiveCfg = Debug|x64
+		{335664C8-2B01-478F-8160-866D5F878308}.Debug|x64.Build.0 = Debug|x64
+		{335664C8-2B01-478F-8160-866D5F878308}.Debug|x86.ActiveCfg = Debug|Win32
+		{335664C8-2B01-478F-8160-866D5F878308}.Debug|x86.Build.0 = Debug|Win32
+		{335664C8-2B01-478F-8160-866D5F878308}.Release|x64.ActiveCfg = Release|x64
+		{335664C8-2B01-478F-8160-866D5F878308}.Release|x64.Build.0 = Release|x64
+		{335664C8-2B01-478F-8160-866D5F878308}.Release|x86.ActiveCfg = Release|Win32
+		{335664C8-2B01-478F-8160-866D5F878308}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAABCA31-7692-4D1D-A279-74113F8B0EDD}
+	EndGlobalSection
+EndGlobal
