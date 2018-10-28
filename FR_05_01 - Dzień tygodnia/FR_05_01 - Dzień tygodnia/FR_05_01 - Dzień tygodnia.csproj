@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>MWP8_1B___Budka_suflera</RootNamespace>
+    <RootNamespace>FR_05_01___Dzień_tygodnia</RootNamespace>
   </PropertyGroup>
 
 </Project>

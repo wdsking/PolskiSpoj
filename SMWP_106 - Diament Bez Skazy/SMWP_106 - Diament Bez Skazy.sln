@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWP8_1B - Budka suflera", "MWP8_1B - Budka suflera\MWP8_1B - Budka suflera.csproj", "{545AC686-DDC5-4A4C-80CE-084EB8CA7D16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMWP_106 - Diament Bez Skazy", "SMWP_106 - Diament Bez Skazy\SMWP_106 - Diament Bez Skazy.csproj", "{7B55F0BB-DF06-4D34-8BE2-BE508DC5AA88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{545AC686-DDC5-4A4C-80CE-084EB8CA7D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{545AC686-DDC5-4A4C-80CE-084EB8CA7D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{545AC686-DDC5-4A4C-80CE-084EB8CA7D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{545AC686-DDC5-4A4C-80CE-084EB8CA7D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B55F0BB-DF06-4D34-8BE2-BE508DC5AA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B55F0BB-DF06-4D34-8BE2-BE508DC5AA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B55F0BB-DF06-4D34-8BE2-BE508DC5AA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B55F0BB-DF06-4D34-8BE2-BE508DC5AA88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AF93C466-2B87-4CBA-B499-D5409FB71261}
+		SolutionGuid = {C43B5602-7D2B-4805-8705-B8F887333822}
 	EndGlobalSection
 EndGlobal

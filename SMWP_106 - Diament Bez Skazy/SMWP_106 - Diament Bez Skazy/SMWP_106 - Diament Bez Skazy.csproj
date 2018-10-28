@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>SMWP_106___Diament_Bez_Skazy</RootNamespace>
+  </PropertyGroup>
+
+</Project>
