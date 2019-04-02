@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>AL_07_01___0_czy_1</RootNamespace>
-  </PropertyGroup>
-
-</Project>
